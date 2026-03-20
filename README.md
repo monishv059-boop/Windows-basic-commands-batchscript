@@ -37,26 +37,56 @@ rmdir my-folder
 
 ## COMMAND AND OUTPUT
 Create the file Rose.txt
-
+~~~
+echo “hello world” > hello.txt
+type hello.txt
+~~~
+![ooooo3](https://github.com/user-attachments/assets/292c0fba-5269-4822-a795-3748cbf5fb9b)
 
 ## COMMAND AND OUTPUT
-
+~~~
+copy hello.txt hello1.txt
+~~~
 
 Create the file hello.txt using echo and redirection
+![oooo4](https://github.com/user-attachments/assets/1ab20b27-6104-487f-9dca-dd6555599b46)
 
 ## COMMAND AND OUTPUT
+~~~
+del hello1.txt
+~~~
+![ooooo5](https://github.com/user-attachments/assets/506bb8af-ddc0-4fd5-8015-7b5a9ba56e0b)
 
 Copy the file hello.txt into the file hello1.txt
+~~~
+dir hello1.txt
+~~~
+![oooo6](https://github.com/user-attachments/assets/74e516ca-05da-49e2-bad0-fb7c3042efe7)
 
 ## COMMAND AND OUTPUT
+~~~
+assoc | more
+~~~
+![oooo7](https://github.com/user-attachments/assets/f477cdb0-87cb-4663-9279-2741dfed47a2)
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+~~~
+fc hello.txt Rose.txt
+~~~
+![ooooo8](https://github.com/user-attachments/assets/33ebdf3a-e109-4a89-a231-eab15a943eef)
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+~~~
+@echo off
+set name=John
+echo Hello, %name%!
+pause
+~~~
+![ooooo9](https://github.com/user-attachments/assets/b2044639-fdce-4b0d-a6a1-7b884cefe9d5)
 
 List out all the associated file extensions 
 
