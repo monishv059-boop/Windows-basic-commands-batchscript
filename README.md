@@ -23,9 +23,10 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+mkdir my-folder
+![ooooo1](https://github.com/user-attachments/assets/da548ef6-951c-4876-9a62-ea5f49a42148)
 
 ## COMMAND AND OUTPUT
-
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
