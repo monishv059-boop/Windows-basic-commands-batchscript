@@ -30,11 +30,14 @@ mkdir my-folder
 
 ## COMMAND AND OUTPUT
 Remove the directory "my-folder"
+~~~
+rmdir my-folder
+~~~
+![oooo2](https://github.com/user-attachments/assets/d641d6eb-60e2-42e0-9c7b-8e6d6304e1e5)
 
 ## COMMAND AND OUTPUT
-
-
 Create the file Rose.txt
+
 
 ## COMMAND AND OUTPUT
 
