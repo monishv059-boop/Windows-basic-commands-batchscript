@@ -26,20 +26,21 @@ Create a directory named "my-folder"
 ```
 mkdir my-folder
 ```
-![ooooo1](https://github.com/user-attachments/assets/da548ef6-951c-4876-9a62-ea5f49a42148)
+<img width="665" height="28" alt="image" src="https://github.com/user-attachments/assets/f23b2943-a5ff-46b8-ba8d-114ff089c576" />
 
 ## COMMAND AND OUTPUT
 Remove the directory "my-folder"
 ~~~
 rmdir my-folder
 ~~~
-
+![ooooo1](https://github.com/user-attachments/assets/60f6c58c-3c0b-47f5-b194-1a0c37bef999)
 
 ## COMMAND AND OUTPUT
 Create the file Rose.txt
 ~~~
-
+COPY CON Rose.txt
 ~~~
+![ooooo3](https://github.com/user-attachments/assets/8a825ab4-bb30-4770-98c5-e40c80fa15d0)
 
 ## COMMAND AND OUTPUT
 ~~~
